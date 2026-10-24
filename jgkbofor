@@ -6,7 +6,7 @@
 -- HYPHON BYPASS ULTRA v20 — SESSION-BOUND IMMORTAL
 -- hidup selama di server yang sama.
 -- keluar server (rejoin / hop / teleport / kick / quit) → mati.
--- ============================================================
+-- ============================================================s
 
 local gv           = getgenv()
 local _filtergc    = filtergc
@@ -9202,7 +9202,7 @@ task.spawn(function()
     Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/lds13/Library.lua"))()
 
 local Window = Library:Window({
-    Name = "ZYUU STORE",
+    Name = "Z",
     SubTitle = "Auto MS",
     TimeRemaining = ""
 })
